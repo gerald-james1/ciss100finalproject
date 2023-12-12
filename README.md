@@ -1,4 +1,4 @@
-# ciss100finalproject
+# CISS 100 Final Project:
 # YouTube Homepage Clone Site
 
 This website is a modified clone of the YouTube homepage designed to emulate aesthetics over functionality.
